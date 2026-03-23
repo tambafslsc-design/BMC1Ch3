@@ -94,7 +94,7 @@ export const questions: Question[] = [
   {
     questionNumber: 7,
     reference: "BAFS600C1Ch3-7",
-    text: "Which of the following should Andrew do in order to be socially responsible to his employees?\n\n(1) pay a higher hourly wage to Yoyo, who is Andrew's cousin\n(2) provide them with a comfortable workplace\n(3) recognise the contribution made by Yoyo and Vivian to the firm",
+    text: "Andrew is the owner of Star Tuck Shop. He employs two staff members, Yoyo and Vivian, whose job natures are the same.\n\nWhich of the following should Andrew do in order to be socially responsible to his employees?\n\n(1) pay a higher hourly wage to Yoyo, who is Andrew's cousin\n(2) provide them with a comfortable workplace\n(3) recognise the contribution made by Yoyo and Vivian to the firm",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -107,7 +107,7 @@ export const questions: Question[] = [
   {
     questionNumber: 8,
     reference: "BAFS600C1Ch3-8",
-    text: "On the other hand, which of the following should NOT be done if Andrew wants to be socially responsible to his customers?",
+    text: "Andrew is the owner of Star Tuck Shop. He employs two staff members, Yoyo and Vivian, whose job natures are the same.\n\nWhich of the following should NOT be done if Andrew wants to be socially responsible to his customers?",
     options: {
       A: "sell the food at a reasonable price",
       B: "use smuggled chicken from Shenzhen to make preserved chicken rice",
@@ -172,7 +172,7 @@ export const questions: Question[] = [
   {
     questionNumber: 13,
     reference: "BAFS600C1Ch3-13",
-    text: "The illegal action is mainly caused by the keen competition with its competitors. Which of the following can West Daily do to promote a healthy competition atmosphere?",
+    text: "Janna is the Chief Executive Officer (CEO) of a local newspaper group, West Daily. It engages in a keen competition with its competitors through different means, ranging from lowering prices, using promotional gimmicks, to reporting shocking news about celebrities, in order to widen customer sources. Her newspaper is currently sued by an artist, Milan, of taking pictures near her home illegally, which is unethical.\n\nThe illegal action is mainly caused by the keen competition with its competitors. Which of the following can West Daily do to promote a healthy competition atmosphere?",
     options: {
       A: "collaborate with its competitors to raise the prices of their newspapers together",
       B: "engage in an even keener competition",
@@ -185,7 +185,7 @@ export const questions: Question[] = [
   {
     questionNumber: 14,
     reference: "BAFS600C1Ch3-14",
-    text: "Suppose Janna plans to enhance the ethical standard of her subordinates. Which of the following measures can she implement?\n\n(1) shorten the lunchtime of those who act unethically\n(2) provide them with a code of ethics to follow\n(3) provide training on business ethics to staff",
+    text: "Janna is the Chief Executive Officer (CEO) of a local newspaper group, West Daily. It engages in a keen competition with its competitors through different means, ranging from lowering prices, using promotional gimmicks, to reporting shocking news about celebrities, in order to widen customer sources. Her newspaper is currently sued by an artist, Milan, of taking pictures near her home illegally, which is unethical.\n\nSuppose Janna plans to enhance the ethical standard of her subordinates. Which of the following measures can she implement?\n\n(1) shorten the lunchtime of those who act unethically\n(2) provide them with a code of ethics to follow\n(3) provide training on business ethics to staff",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -198,7 +198,7 @@ export const questions: Question[] = [
   {
     questionNumber: 15,
     reference: "BAFS600C1Ch3-15",
-    text: "After this incident, Hammer believes that the awareness of business ethics of his subordinates is low. Which of the following ways is NOT an appropriate way to enhance it?",
+    text: "Hammer Ltd is a company manufacturing high-tech electronic gadgets in China and selling them all over the world. Hammer, the general manager, recently discovered that Simon, the production manager, bribed the Chinese government officials in order to carry out the production without complying with the environmental regulations.\n\nAfter this incident, Hammer believes that the awareness of business ethics of his subordinates is low. Which of the following ways is NOT an appropriate way to enhance it?",
     options: {
       A: "give rewards to ethical behaviour and punishments to unethical behaviour in terms of year-end bonus",
       B: "provide additional educational courses on business ethics",
@@ -211,7 +211,7 @@ export const questions: Question[] = [
   {
     questionNumber: 16,
     reference: "BAFS600C1Ch3-16",
-    text: "The unethical practices of Simon have caused much pollution near the production base. In light of this, Hammer wants to bear the firm’s social responsibility to the environment. Which of the following is/are appropriate way(s) for him to achieve this aim?\n\n(1) terminate the productions in factories immediately\n(2) implement environmentally friendly measures such as recycling\n(3) relocate the production base to other less polluted countries",
+    text: "Hammer Ltd is a company manufacturing high-tech electronic gadgets in China and selling them all over the world. Hammer, the general manager, recently discovered that Simon, the production manager, bribed the Chinese government officials in order to carry out the production without complying with the environmental regulations.\n\nThe unethical practices of Simon have caused much pollution near the production base. In light of this, Hammer wants to bear the firm’s social responsibility to the environment. Which of the following is/are appropriate way(s) for him to achieve this aim?\n\n(1) terminate the productions in factories immediately\n(2) implement environmentally friendly measures such as recycling\n(3) relocate the production base to other less polluted countries",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -276,7 +276,7 @@ export const questions: Question[] = [
   {
     questionNumber: 21,
     reference: "BAFS600C1Ch3-21",
-    text: "Which of the following measures can Care Coach Company take to fulfil its social responsibility concerning its coach services?\n\n(1) charge children from low-income families a lower fee\n(2) participate in charity work with the use of coach services\n(3) provide drivers with additional safety training",
+    text: "Care Coach Company has been providing coach services to schools for many years and is devoted to creating an image of a caring company. It believes that all companies should be socially responsible. More than half of the primary schools in Lam Tin and Kwun Tong have chosen Care Coach because of its safe and efficient services.\n\nWhich of the following measures can Care Coach Company take to fulfil its social responsibility concerning its coach services?\n\n(1) charge children from low-income families a lower fee\n(2) participate in charity work with the use of coach services\n(3) provide drivers with additional safety training",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -289,7 +289,7 @@ export const questions: Question[] = [
   {
     questionNumber: 22,
     reference: "BAFS600C1Ch3-22",
-    text: "Which of the following actions can Care Coach Company take in order to bear its social responsibility towards the environment?",
+    text: "Care Coach Company has been providing coach services to schools for many years and is devoted to creating an image of a caring company. It believes that all companies should be socially responsible. More than half of the primary schools in Lam Tin and Kwun Tong have chosen Care Coach because of its safe and efficient services.\n\nWhich of the following actions can Care Coach Company take in order to bear its social responsibility towards the environment?",
     options: {
       A: "terminate the business in order to reduce pollution",
       B: "use environmentally friendly fuels and engines",
@@ -302,7 +302,7 @@ export const questions: Question[] = [
   {
     questionNumber: 23,
     reference: "BAFS600C1Ch3-23",
-    text: "As Care Coach Company recognises the importance of fulfilling social responsibility, it is willing to accept lower return for the benefits of school children. However, some companies oppose the practice of social responsibility and do not incorporate it into one of their business goals. Which of the following are the reasons behind?\n\n(1) They have already benefited society by providing jobs, products and services.\n(2) They have paid profits tax to the government which can be used on providing social services.\n(3) Investors oppose those companies to bear social responsibility because it lowers their return on investment.",
+    text: "Care Coach Company has been providing coach services to schools for many years and is devoted to creating an image of a caring company. It believes that all companies should be socially responsible. More than half of the primary schools in Lam Tin and Kwun Tong have chosen Care Coach because of its safe and efficient services.\n\nAs Care Coach Company recognises the importance of fulfilling social responsibility, it is willing to accept lower return for the benefits of school children. However, some companies oppose the practice of social responsibility and do not incorporate it into one of their business goals. Which of the following are the reasons behind?\n\n(1) They have already benefited society by providing jobs, products and services.\n(2) They have paid profits tax to the government which can be used on providing social services.\n(3) Investors oppose those companies to bear social responsibility because it lowers their return on investment.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
